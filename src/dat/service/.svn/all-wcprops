@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/HBMyEclipse/!svn/ver/89/MyMTraffic_V3/src/Service
+END
+ChargeLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/ChargeLog.java
+END
+ActionLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/ActionLog.java
+END
+ActionLogObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/HBMyEclipse/!svn/ver/89/MyMTraffic_V3/src/Service/ActionLogObject.java
+END
+Keyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/Keyword.java
+END
+Street.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/Street.java
+END
+DefineMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/DefineMT.java
+END
+MOLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/MOLog.java
+END
+DefineMTObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/HBMyEclipse/!svn/ver/89/MyMTraffic_V3/src/Service/DefineMTObject.java
+END
+PushTimeLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/PushTimeLog.java
+END
+PushTimeLogObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/HBMyEclipse/!svn/ver/89/MyMTraffic_V3/src/Service/PushTimeLogObject.java
+END
+NewsStreet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/NewsStreet.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/Service.java
+END
+ServiceObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/HBMyEclipse/!svn/ver/89/MyMTraffic_V3/src/Service/ServiceObject.java
+END
+News.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/HBMyEclipse/!svn/ver/116/MyMTraffic_V3/src/Service/News.java
+END
+NewsObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/HBMyEclipse/!svn/ver/89/MyMTraffic_V3/src/Service/NewsObject.java
+END
